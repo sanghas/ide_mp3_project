@@ -1,0 +1,6 @@
+MP3_Player.c:25:6:MP3_Init	8	static
+MP3_Player.c:35:6:MP3_Play	24	static
+MP3_Player.c:71:6:MP3_Stop	16	static
+MP3_Player.c:94:6:MP3_Pause	4	static
+MP3_Player.c:100:6:MP3_Resume	4	static
+MP3_Player.c:108:6:MP3_Feeder	8	static

@@ -1,0 +1,14 @@
+vs1053.c:38:6:VS1053_Init	16	static
+vs1053.c:83:6:VS1053_Reset	16	static
+vs1053.c:94:6:VS1053_SoftReset	8	static
+vs1053.c:102:6:VS1053_SetVolume	24	static
+vs1053.c:112:6:VS1053_SetMode	16	static
+vs1053.c:118:6:VS1053_GetMode	16	static
+vs1053.c:125:6:VS1053_AutoResync	8	static
+vs1053.c:133:6:VS1053_SetDecodeTime	16	static
+vs1053.c:141:6:VS1053_SendEndFill	24	static
+vs1053.c:156:6:VS1053_IsBusy	8	static
+vs1053.c:163:6:VS1053_SciWrite	24	static
+vs1053.c:183:6:VS1053_SciRead	32	static
+vs1053.c:209:6:VS1053_SdiWrite	16	static
+vs1053.c:221:6:VS1053_SdiWrite32	16	static

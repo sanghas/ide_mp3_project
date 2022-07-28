@@ -1,0 +1,2 @@
+user_eeprom.c:11:6:EEPROM_write	32	static
+user_eeprom.c:21:9:EEPROM_read	32	static
